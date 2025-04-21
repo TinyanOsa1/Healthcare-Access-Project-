@@ -7,11 +7,11 @@ This Power BI project analyzes healthcare accessibility in Africa, with a focus 
 
 • Provide insights and recommendations for policy improvement.
 
-
+___
 # Process Overview 
 
-# 1. Data cleaning and preparation 
-   Dataset provided by Axia Africa for this project. Dataset consist of:
+### 1. Data cleaning and preparation 
+   Dataset provided by **Axia Africa** for this project. Dataset consist of:
    
 • 2000 Rows
 
@@ -23,7 +23,7 @@ This Power BI project analyzes healthcare accessibility in Africa, with a focus 
 
 • Added a new column to classify regions into Urban or Rural based on population, electricity, internet availability, and distance to facility.
 
-# 2. Dashboard Design
+### 2. Dashboard Design
 • Color Theme: Red and White
 
 • Background: Off-white
@@ -32,7 +32,7 @@ This Power BI project analyzes healthcare accessibility in Africa, with a focus 
 
 • Secondary: Teal (#00838F)
 
-# 2.1 Layout Highlights:
+### 2.1 Layout Highlights:
 
 • KPIs (top-right): Total funding, Facility count by type, Average emergency response time
 
@@ -40,6 +40,7 @@ This Power BI project analyzes healthcare accessibility in Africa, with a focus 
 
 • Country slicer (left panel)
 
+___
 # Insights
 • Urban areas have nearly 3x more facilities (hospitals, clinics, health centers) than rural areas.
 
@@ -50,7 +51,7 @@ This Power BI project analyzes healthcare accessibility in Africa, with a focus 
 • Hospitals are most efficient (lowest cost per patient visit), followed by clinics. Health centers are the least efficient.
 
 • Urban areas have significantly more workforce and accessories (doctors, nurses, and beds) than rural areas
-
+___
 
 # Challenges 
 
@@ -61,6 +62,7 @@ This Power BI project analyzes healthcare accessibility in Africa, with a focus 
 • Poor infrastructure (electricity, internet, transport).
 
 • Limited workforce in rural areas.
+___
 
 # Recommendations 
 
@@ -71,5 +73,6 @@ This Power BI project analyzes healthcare accessibility in Africa, with a focus 
 • Improve transportation services to enhance emergency response times.
 
 • Establish regulatory bodies to track and audit healthcare funding allocation.
+___
 
 Dashboard Preview
