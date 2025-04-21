@@ -75,4 +75,6 @@ ___
 • Establish regulatory bodies to track and audit healthcare funding allocation.
 ___
 
-Dashboard Preview
+# Dashboard Preview
+![Power BI Dashboard](Power%20Bi%20Dashboard%20.jpg)
+
